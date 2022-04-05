@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+.colorSelector {
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+
+    height: 6vh;
+    width: 100vw;
+    margin-left: -50vw;
+    background-color: white;
+
+    box-shadow: 1vh 1vh 3vh 1.5vh black;
+}
+
+.colorsPaletteDiv {
+    text-align: center;
+    margin-top: 0.5vh;
+}
+
+.colorInSelector {
+    cursor: pointer;
+    box-sizing: border-box; /* https://developer.mozilla.org/es/docs/Web/CSS/box-sizing */
+    display: inline-block;
+    height: 5vh;
+    border: 0.15vw solid black;
+}
+/* https://stackoverflow.com/questions/10052922/set-space-between-divs */
+.colorInSelector:not(:last-child) { 
+    margin-right: 0.2vw;
+}
+.colorInSelector:hover {
+    filter: contrast(70%);
+}
+.colorInSelector:active {
+    filter: contrast(120%);
+}
