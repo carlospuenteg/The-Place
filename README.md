@@ -4,15 +4,15 @@ This is my approach to r/place made with React
 
 This is an Alpha version, you can just draw locally with the same palette as the one used in r/place.
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Install Modules
 
 Before you start, install the React modules with:
 
 ### `npm install`
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
