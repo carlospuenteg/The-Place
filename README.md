@@ -8,6 +8,12 @@ This is an Alpha version, you can just draw locally with the same palette as the
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Install Modules
+
+Before you start, you need to install the React modules with:
+
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
