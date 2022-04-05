@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Install Modules
 
-Before you start, you need to install the React modules with:
+Before you start, install the React modules with:
 
 ### `npm install`
 
