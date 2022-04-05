@@ -1,6 +1,6 @@
 ## Description
 
-This is my approach to r/place.
+This is my approach to r/place made with React
 
 This is an Alpha version, you can just draw locally with the same palette as the one used in r/place.
 
