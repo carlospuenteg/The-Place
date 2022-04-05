@@ -26,12 +26,12 @@ class Canvas extends React.Component {
             canvas.push(<div key={i} style={ROW_STYLE}>{row}</div>);
         }
         return (
-        <>
-        <ColorSelector/>
-        <div style={CANVA_STYLE}>
-            {canvas}
-        </div>
-        </>
+            <>
+            <ColorSelector/>
+            <div style={CANVA_STYLE}>
+                {canvas}
+            </div>
+            </>
         );
     }
 }
