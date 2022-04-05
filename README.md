@@ -1,4 +1,8 @@
-## This is my approach to r/place.
+## Description
+
+This is my approach to r/place.
+
+This is an Alpha version, you can just draw locally with the same palette as the one used in r/place.
 
 # Getting Started with Create React App
 
